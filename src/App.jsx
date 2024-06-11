@@ -1,4 +1,5 @@
-import './App.css'
+import './assets/styles/global.scss'
+import Animation from './components/Animation'
 
 function App() {
   
@@ -6,7 +7,7 @@ function App() {
   return (
     <>
       <div>
-        
+        <Animation/>
       </div>
       
     </>
