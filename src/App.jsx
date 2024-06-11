@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      <div>
+      <div id="main-container">
         <Animation/>
       </div>
       

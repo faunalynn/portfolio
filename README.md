@@ -1,5 +1,8 @@
-<<<<<<< HEAD
-# portfolio
-=======
+# Welcome to my Portfolio !
 
->>>>>>> master
+====
+
+To init project :
+
+pnpm i
+

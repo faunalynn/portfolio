@@ -4,3 +4,10 @@ $test : red ;
 html,body, #root {
     background-color: $first-color;
 }
+
+#main-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
