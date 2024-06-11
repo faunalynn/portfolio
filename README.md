@@ -1,8 +1,4 @@
 # Welcome to my Portfolio !
 
-====
 
-To init project :
-
-pnpm i
-
+## Hope you like it ! 
